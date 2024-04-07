@@ -138113,6 +138113,8 @@ ui_book_otisblk5
 ui_book_otisblk6
 ui_book_otisblk7
 ui_book_otisblk8
+ui_book_shrew1
+ui_book_shrew2
 ui_book_shrew3
 ui_book_shrew4
 ui_book_shrew5
