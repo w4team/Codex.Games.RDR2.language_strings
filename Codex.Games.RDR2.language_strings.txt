@@ -1705,12 +1705,6 @@ ammo_tomahawk_improved
 ammo_tomahawk_improved_desc
 ammo_turret
 ammo_turret_desc
-amvg-813
-amvg-814
-amvg-815
-amvg-816
-amvg-817
-amvg-818
 ani
 ani1
 anidir
@@ -33577,6 +33571,12 @@ cwkg3_action_6
 cwkg3_action_7
 cwkg3_action_8
 cwkg3_action_9
+cwmb1_act_1
+cwmb1_act_2
+cwmb1_act_3
+cwmb1_act_4
+cwmb1_act_5
+cwmb1_act_6
 cwmb2_act_1
 cwmb2_act_2
 cwmb2_act_3
@@ -36428,6 +36428,7 @@ document_business_card_fish_desc
 document_business_card_rock_carvings
 document_business_card_rock_carvings_desc
 document_calloway_note
+document_calnote_desc
 document_canyon_live_forever_flower_jar
 document_canyon_live_forever_flower_jar_desc
 document_card_ace_cups
@@ -102402,6 +102403,11 @@ provision_animal_carcass_cardinal_perfect
 provision_animal_carcass_cardinal_perfect_desc
 provision_animal_carcass_cardinal_poor
 provision_animal_carcass_cardinal_poor_desc
+provision_animal_carcass_cat_high_quality
+provision_animal_carcass_cat_high_quality_desc
+provision_animal_carcass_cat_perfect
+provision_animal_carcass_cat_perfect_desc
+provision_animal_carcass_cat_poor_desc
 provision_animal_carcass_cedarwaxwing_high_quality
 provision_animal_carcass_cedarwaxwing_perfect
 provision_animal_carcass_cedarwaxwing_poor
@@ -103053,6 +103059,7 @@ provision_eagle_egg_desc
 provision_eagle_feather
 provision_eagle_feather_desc
 provision_eagle_talon
+provision_eagltl_desc
 provision_earring_gold
 provision_earring_pearl
 provision_earring_platinum
@@ -103130,6 +103137,8 @@ provision_fish_steelhead_trout_poor
 provision_fish_sthdtrout_desc
 provision_flakey_fish_meat
 provision_flakey_fish_meat_desc
+provision_flower_acunas_star_desc
+provision_flower_cigar_desc
 provision_fox_claw_legendary
 provision_fox_claw_legendary_desc
 provision_fox_fur
@@ -103171,6 +103180,7 @@ provision_goldbar_large
 provision_goldbar_large_desc
 provision_goldbar_small
 provision_goldbar_small_desc
+provision_goldnug_desc
 provision_goldring
 provision_goldring_desc
 provision_goldtooth
@@ -103383,6 +103393,7 @@ provision_mollys_pocket_mirror
 provision_mollys_pocket_mirror_desc
 provision_moonshine_poison
 provision_moonshine_poison_desc
+provision_moosant_desc
 provision_moose_antler
 provision_moose_antler_legendary
 provision_moose_antler_legendary_desc
@@ -103415,6 +103426,7 @@ provision_necklace_silver
 provision_npike_desc
 provision_old_brass_compass
 provision_old_brass_compass_desc
+provision_oldgun_desc
 provision_opossum_fur
 provision_opossum_fur_desc
 provision_opossum_fur_poor
@@ -104368,6 +104380,7 @@ provision_vulture_feather_desc
 provision_watch
 provision_watch_desc
 provision_wedding_ring
+provision_wedring_desc
 provision_white_buffalo_legendary_fur_pristine
 provision_whooping_crane_feather
 provision_whooping_crane_feather_desc
@@ -141244,6 +141257,7 @@ weapon_kit_camera
 weapon_kit_camera_advanced
 weapon_kit_camera_advanced_desc
 weapon_kit_camera_desc
+weapon_kit_detect_desc
 weapon_kit_detector
 weapon_kit_metal_detector
 weapon_kit_metal_detector_desc
@@ -141299,7 +141313,9 @@ weapon_melee_torch
 weapon_melee_torch_crowd
 weapon_moonshinejug
 weapon_moonshinejug_mp
+weapon_mw_clea_desc
 weapon_mw_eleclant_desc
+weapon_mw_hatc_desc
 weapon_mw_lant_desc
 weapon_perm_degredation
 weapon_pistol_m1899
@@ -141349,6 +141365,7 @@ weapon_rifle_elephant
 weapon_rifle_elephant_desc
 weapon_rifle_springfield
 weapon_rifle_varmint
+weapon_rw_bow_desc
 weapon_rw_lasso_desc
 weapon_shotgun_doublebarrel
 weapon_shotgun_doublebarrel_exotic
@@ -141395,6 +141412,9 @@ weapon_turret_cannon
 weapon_turret_gatling
 weapon_turret_maxim
 weapon_turret_revolving_cannon
+weapon_tw_dyna_desc
+weapon_tw_molo_desc
+weapon_tw_toma_anc_desc
 weapon_unarmed
 weapon_unlocked_header
 weapons_bm
