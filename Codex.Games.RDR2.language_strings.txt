@@ -1047,6 +1047,7 @@ abi_rsc_ig11_8
 abi_rsc_ig11_9
 abigail_abandon
 abigail_catch_up
+abigail_follow
 abigail_return
 ability_card_a_moment_to_recuperate
 ability_card_a_person_of_conviction
@@ -16649,6 +16650,7 @@ clan_not_failed
 clan_success
 claudia_abandon
 claudia_catch_up
+claudia_return
 cld2_base
 cld2_bookcase
 cld2_cancel
@@ -16744,6 +16746,8 @@ cle
 clean_boots
 cleet_abandon
 cleet_catch_up
+cleet_return
+cleet_wait
 clen4_act_1
 clen4_act_2
 clen4_act_3
@@ -16859,6 +16863,9 @@ clo_iem_ph_0_0
 clo_iem_ph_0_1
 clo_iem_ph_0_2
 close
+close_ammo_box
+close_armoir
+close_armoire
 close_basket
 close_cabinet
 close_cabinets
@@ -16866,7 +16873,11 @@ close_chest
 close_crate
 close_cupboard
 close_drawer
+close_jewelry_box
+close_lockbox
 close_luggage
+close_medical_box
+close_tackle_box
 close_tin
 close_wardrobe
 clothing_blend_blusher_none
@@ -41002,6 +41013,8 @@ ea_default
 eacas
 eacur
 eagleflies_catch_up
+eagleflies_follow
+eagleflies_return
 ears_header
 eas
 eat
@@ -41335,6 +41348,7 @@ emrh_tsw3sick_3
 emrh_tsw3sick_4
 end_table
 eng
+enter_balloon
 enter_bicycle
 enter_boat
 enter_cannon
@@ -54378,6 +54392,7 @@ greet_spos
 grh
 grimshaw_abandon
 grimshaw_catch_up
+grimshaw_follow
 grimshaw_return
 grizzlies_dist
 group_fail
@@ -57145,6 +57160,7 @@ herb_wintergreen_berry
 herb_yarrow
 hercule_abandon
 hercule_catch_up
+hercule_return
 herd_blip_herd
 herd_blip_strg
 herding_close
@@ -66351,6 +66367,7 @@ legal_splash_2
 legal_splash_2b
 leighgray_abandon
 leighgray_catch_up
+leighgray_return
 lemoyne
 length
 lenny_abandon
@@ -67390,12 +67407,20 @@ look_mirror
 look_poster
 loot
 loot_ammo
+loot_ammo_box
+loot_basket
 loot_coach
 loot_coach_open_compartment
 loot_coffin
 loot_crate
+loot_deer_meat
+loot_jewelry_box
+loot_lockbox
 loot_long
+loot_luggage
+loot_medical_box
 loot_saddlebag
+loot_tackle_box
 loot_tin
 loot_vehicle_disabled
 loot_vehicle_no_lockbreaker_disabled
@@ -72186,6 +72211,8 @@ mar24_ptl_2
 mar24_ptl_3
 marybeth_abandon
 marybeth_catch_up
+marybeth_follow
+marybeth_return
 masn1_b_coyote
 masn1_f_aggro
 masn1_f_bag
@@ -101761,14 +101788,24 @@ oob_pa_blip
 oob_pas_blip
 oob_rtn_pa
 open
+open_ammo_box
+open_armoir
 open_basket
+open_bed_chest
 open_box
 open_cabinet
 open_chest
+open_crate
 open_cupboard
 open_desk
 open_drawer
+open_jewelry_box
+open_lockbox
 open_luggage
+open_medcrate
+open_medical_box
+open_tackle_box
+open_tin
 open_trap_door
 open_wardrobe
 opnworambdes
@@ -103618,6 +103655,7 @@ pasture_sheep
 pay_cash
 paytah_abandon
 paytah_catch_up
+paytah_return
 pc_uc_neg
 pc_uc_pos
 pcfr0a
@@ -103736,6 +103774,8 @@ pdrpj_hideh_4
 pdrpj_hidei_1
 pearson_abandon
 pearson_catch_up
+pearson_follow
+pearson_return
 pearson_upgrade
 pearson_wagon
 ped_followme
@@ -109463,8 +109503,10 @@ push_wagon
 push_wagon_main
 put_away
 putdown_eggs
+putdown_guitar
 putdown_milk
 putdown_p
+putdown_pitchfork
 pv_biggest_fish_fail_no_rods
 pv_biggest_fish_too_few
 pv_biggest_fish_too_few_available
@@ -110187,6 +110229,7 @@ radial_menu_granular_nav_description
 ragetech
 rainsfall_abandon
 rainsfall_catch_up
+rainsfall_return
 ranch_combat_grief
 ranch_combat_hon
 ranch_combat_warn
@@ -116693,10 +116736,13 @@ redj_cnv_b_negj_2
 redj_cnv_b_negj_3
 redshirt1_abandon
 redshirt1_catch_up
+redshirt1_return
 redshirt2_abandon
 redshirt2_catch_up
+redshirt2_return
 redshirt3_abandon
 redshirt3_catch_up
+redshirt3_return
 redw2_ad_letgo_01
 redw2_ad_letgo_02
 redw2_ad_letgo_03
@@ -138050,6 +138096,7 @@ stranger_male
 strauss_abandon
 strauss_catch_up
 strauss_follow
+strauss_return
 strauss_upgrade
 strauss_wagon
 strawberry_flow_target_0_crime_00
@@ -139962,6 +140009,8 @@ ticker_nat_la_wolf_02
 ticker_nat_la_wolf_03
 tilly_abandon
 tilly_catch_up
+tilly_follow
+tilly_return
 time_and_temp_c
 time_and_temp_c_24
 time_and_temp_f
@@ -141586,6 +141635,7 @@ trefa_toastr_2
 trefa_toastr_3
 trelawny_abandon
 trelawny_catch_up
+trelawny_follow
 trelawny_return
 trink_tithe
 trip_skip_help
@@ -143421,6 +143471,7 @@ ukitdir
 unavailable_taxi
 uncle_abandon
 uncle_catch_up
+uncle_follow
 uncle_return
 und_fail_1
 und_fail_2
