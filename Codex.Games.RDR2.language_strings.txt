@@ -27552,6 +27552,7 @@ cmp_slp_mrn
 cmp_slp_noon
 cmp_slp_soon
 cmp_slp_tnt
+cmpndm_alasginseng
 cmpndm_alasginseng_p1
 cmpndm_alligator_m
 cmpndm_alligator_m_p1
@@ -27559,6 +27560,7 @@ cmpndm_alligator_m_p1_net
 cmpndm_alligator_sm
 cmpndm_alligator_sm_p1
 cmpndm_alligator_sm_p1_net
+cmpndm_amerginseng
 cmpndm_amerginseng_p1
 cmpndm_americans_alfredm
 cmpndm_americans_corneliusp
@@ -27772,6 +27774,7 @@ cmpndm_calowl_p1
 cmpndm_carbine_repeater
 cmpndm_carbine_repeater_desc
 cmpndm_carbine_repeater_tip
+cmpndm_carcano_rifle
 cmpndm_carcano_rifle_desc
 cmpndm_carcano_rifle_tip
 cmpndm_cardinal
@@ -27895,10 +27898,13 @@ cmpndm_donkey_p1
 cmpndm_double_hatchet
 cmpndm_double_hatchet_desc
 cmpndm_double_hatchet_tip
+cmpndm_doublea_revolver
 cmpndm_doublea_revolver_desc
 cmpndm_doublea_revolver_tip
+cmpndm_doubleb_shotgun
 cmpndm_doubleb_shotgun_desc
 cmpndm_doubleb_shotgun_tip
+cmpndm_dragorchid
 cmpndm_dragorchid_p1
 cmpndm_dutchwm
 cmpndm_dutchwm_p1
@@ -28072,6 +28078,7 @@ cmpndm_hunghalf_p1
 cmpndm_hunter_hatchet
 cmpndm_hunter_hatchet_desc
 cmpndm_hunter_hatchet_tip
+cmpndm_hunting_knife
 cmpndm_hunting_knife_desc
 cmpndm_hunting_knife_tip
 cmpndm_husky
@@ -28418,6 +28425,7 @@ cmpndm_lgmbass
 cmpndm_lgmbass_legd
 cmpndm_lgmbass_legd_p1
 cmpndm_lgmbass_p1
+cmpndm_litchrepeater
 cmpndm_litchrepeater_desc
 cmpndm_litchrepeater_tip
 cmpndm_littleegret
@@ -29024,6 +29032,7 @@ cmpndm_toast_sample_legred_title
 cmpndm_toast_sample_mountain_comp
 cmpndm_toast_sample_mountain_prog
 cmpndm_toast_sample_mountain_title
+cmpndm_tobacco
 cmpndm_tobacco_p1
 cmpndm_tomahawk
 cmpndm_tomahawk_desc
@@ -29042,6 +29051,11 @@ cmpndm_top_domesticated_desc_net
 cmpndm_top_domesticated_net
 cmpndm_top_equipment
 cmpndm_top_fish
+cmpndm_top_gang_dellobos
+cmpndm_top_gang_laramiegang
+cmpndm_top_gang_lemoyneraiders
+cmpndm_top_gang_odriscoll
+cmpndm_top_gang_skinnerbro
 cmpndm_top_gangs
 cmpndm_top_horses
 cmpndm_top_melanistic_animals_desc_net
@@ -29097,6 +29111,7 @@ cmpndm_undiscovered_horse
 cmpndm_undiscovered_plant
 cmpndm_undiscovered_weapon
 cmpndm_unknown_gang_desc
+cmpndm_vanflower
 cmpndm_vanflower_p1
 cmpndm_vfire_bottle
 cmpndm_vfire_bottle_desc
@@ -29104,14 +29119,17 @@ cmpndm_vfire_bottle_tip
 cmpndm_viking_hatchet
 cmpndm_viking_hatchet_desc
 cmpndm_viking_hatchet_tip
+cmpndm_viosnowdrops
 cmpndm_viosnowdrops_p1
 cmpndm_vol_dynamite
 cmpndm_vol_dynamite_desc
 cmpndm_vol_dynamite_tip
+cmpndm_volcanic_pistol
 cmpndm_volcanic_pistol_desc
 cmpndm_volcanic_pistol_tip
 cmpndm_waxwing
 cmpndm_waxwing_p1
+cmpndm_wcarrot
 cmpndm_wcarrot_p1
 cmpndm_wcrane
 cmpndm_wcrane_p1
@@ -29127,7 +29145,9 @@ cmpndm_westvulture
 cmpndm_westvulture_p1
 cmpndm_whitepelican
 cmpndm_whitepelican_p1
+cmpndm_winberry
 cmpndm_winberry_p1
+cmpndm_wmint
 cmpndm_wmint_p1
 cmpndm_yarrow
 cmpndm_yarrow_p1
@@ -37914,6 +37934,7 @@ document_bare_lady_photo_04
 document_bare_lady_photo_04_desc
 document_bare_lady_photo_05
 document_bare_lady_photo_05_desc
+document_beauletter_desc
 document_beaus_letter
 document_bond
 document_bond_desc
@@ -37970,8 +37991,12 @@ document_bounty_poster_javier
 document_bounty_poster_javier_desc
 document_bounty_poster_rtl
 document_bounty_poster_rtl_desc
+document_bountyp_cg_desc
+document_bountyp_desc
 document_braithwaite_manor_photo
 document_braithwaite_manor_photo_desc
+document_brenlet4_desc
+document_brenlet8_desc
 document_bronte_photo
 document_bronte_photo_desc
 document_business_card_cig_cards
@@ -38438,6 +38463,15 @@ document_cig_card_veh_set
 document_cig_card_veh_set_desc
 document_civbride_letter
 document_civbride_letter_desc
+document_coach_rob_note_01_desc
+document_coach_rob_note_02_desc
+document_coach_rob_note_03_desc
+document_coach_rob_note_04_desc
+document_coach_rob_note_05_desc
+document_coach_rob_note_06_desc
+document_coach_rob_note_07_desc
+document_coach_rob_note_08_desc
+document_coach_rob_note_09_desc
 document_coach_robbery_note_01
 document_coach_robbery_note_02
 document_coach_robbery_note_03
@@ -38584,10 +38618,16 @@ document_generic_letter_envelope_desc
 document_generic_map_rolled
 document_generic_map_rolled_desc
 document_get_rich_book
+document_getrich_desc
+document_guns1note_desc
+document_guns2note_desc
+document_guns3note_desc
+document_guns5note_desc
 document_gunslinger_1_note
 document_gunslinger_2_note
 document_gunslinger_3_note
 document_gunslinger_5_note
+document_hmstdeed_desc
 document_homestead_deed
 document_horse_deed
 document_inspection_next_doc
@@ -38747,10 +38787,12 @@ document_mary_letter_3_1_helped
 document_mary_letter_3_1_helped_desc
 document_mary_letter_3_1_not_helped
 document_mary_letter_3_1_not_helped_desc
+document_masnphoto_desc
 document_masons_photo
 document_micah_letter
 document_micah_letter_desc
 document_mine_share
+document_mineshr_desc
 document_moonshiner_stash
 document_moonstash_desc
 document_native_american_journal
@@ -38904,6 +38946,7 @@ document_note_taxidermy_desc
 document_oddfellows_letter
 document_oddfellows_letter_jn
 document_oddfellows_letter_jn_desc
+document_oddfletter_desc
 document_odriscolls_6_letter
 document_odriscolls_6_letter_desc
 document_pamphlet_ammo_22_tranquilizer
@@ -39083,6 +39126,7 @@ document_pamphlet_valuables_satchel_desc
 document_pamphlet_volatile_dynamite
 document_pamphlet_volatile_molotov
 document_penelopes_letter
+document_penletter_desc
 document_photo_aberdeen_pigfarm
 document_photo_aberdeen_pigfarm_desc
 document_photo_arthur_mother
@@ -39153,6 +39197,8 @@ document_rock_carvings_mailer_letter_07
 document_rock_carvings_mailer_letter_08
 document_rock_carvings_mailer_letter_09
 document_rock_carvings_mailer_letter_10
+document_rsad_letter_desc
+document_rsad_list_desc
 document_rsad_pearsons_letter
 document_rsad_shop_list
 document_sean_dad_newspaper
@@ -42390,6 +42436,7 @@ fetch_bounty_hunting_timed_help_intro_plural
 fetch_bounty_hunting_timed_help_objective_escaping
 fetch_bounty_hunting_timed_help_primary_go_to
 fetch_bounty_hunting_timed_help_search
+fetch_bounty_hunting_timed_help_search_km
 fetch_bounty_hunting_timed_obj_defend
 fetch_bounty_hunting_timed_obj_defend_plural
 fetch_bounty_hunting_timed_obj_drop
@@ -42508,9 +42555,11 @@ fetch_bty_goto_reached
 fetch_bty_goto_reached_armadillo_track
 fetch_bty_goto_reached_plural
 fetch_bty_goto_reached_rhodes_track
+fetch_bty_goto_reached_rhodes_track_km
 fetch_bty_goto_reached_track_annesburg
 fetch_bty_goto_reached_van_horn_track
 fetch_bty_goto_reached_wallace_station_track
+fetch_bty_goto_reached_wallace_station_track_km
 fetch_bty_help_annesburg_track_untied
 fetch_bty_help_dead_end
 fetch_bty_help_dismount
@@ -105509,6 +105558,7 @@ pmhelp_qs_deye_hdr_net
 pmhelp_qs_deye_net
 pmhelp_qs_eeye_hdr_net
 pmhelp_qs_eeye_net
+pmhelp_qs_eeye_net_km
 pmhelp_qs_honor_hdr_net
 pmhelp_qs_honor_net
 pmhelp_qs_horse_2_net
@@ -107792,6 +107842,8 @@ provision_bear_legendary_claw
 provision_bear_legendary_claw_desc
 provision_bear_legendary_fur_pristine
 provision_bear_legendary_fur_pristine_desc
+provision_beaug1_desc
+provision_beaug2_desc
 provision_beaupos_desc
 provision_beaus_gift_1
 provision_beaus_gift_2
@@ -107894,6 +107946,7 @@ provision_catherines_necklace
 provision_catherines_necklace_desc
 provision_cc_vintage_handcuffs
 provision_cc_vintage_handcuffs_desc
+provision_ccross_desc
 provision_cedarwaxwing_feather
 provision_cedarwaxwing_feather_desc
 provision_chicken_egg
@@ -108433,6 +108486,7 @@ provision_parakeet_feather
 provision_parakeet_feather_desc
 provision_parrot_feather
 provision_parrot_feather_desc
+provision_pcktwatch_desc
 provision_pearsons_naval_compass
 provision_pearsons_naval_compass_desc
 provision_pelican_feather
@@ -108896,11 +108950,13 @@ provision_role_naturalist_pelt_wolf_legendary_03_desc
 provision_rooster_feather
 provision_rooster_feather_desc
 provision_rotten_meat
+provision_rottenmt_desc
 provision_rs_abalone_shell_fragment
 provision_sadies_harmonica
 provision_sadies_harmonica_desc
 provision_sckeyesal_desc
 provision_scrap_metal
+provision_scrpmtl_desc
 provision_sdn_bank_bond
 provision_sdn_bank_bond_desc
 provision_seagull_feather
@@ -109391,6 +109447,7 @@ provision_wolf_heart_desc
 provision_wolf_heart_legendary
 provision_wolf_heart_legendary_desc
 provision_wolf_legendary_fur_pristine
+provision_wood_cobalt_desc
 provision_woodpecker_feather
 provision_woodpecker_feather_desc
 prrgs
@@ -139534,6 +139591,7 @@ tf_horse_saddle_dropped
 tf_horse_saddle_out_of_reach
 tf_horse_saddle_sent_to_shop
 tf_horse_saddled_horse
+tf_horse_sprint_stamina_1
 tf_horse_sprint_stamina_1
 tf_horse_sprint_stamina_2
 tf_horse_sprint_stamina_2_km
