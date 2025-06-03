@@ -2481,7 +2481,6 @@ ally_mount_dead_bill
 ally_mount_dead_charles
 ally_mount_dead_claudia
 ally_mount_dead_cleet
-ally_mount_dead_cleet
 ally_mount_dead_dutch
 ally_mount_dead_eagleflies
 ally_mount_dead_grimshaw
